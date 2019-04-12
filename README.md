@@ -47,3 +47,9 @@ There are many places you can have these stickers printed.  I personally recomme
 
 Here are some of the stickers in action, making my laptop look super sweet!
 <img height="300px" alt="Microsoft hex stickers in action on my laptop" src="https://pbs.twimg.com/media/DJC6WooVAAAtjl0.jpg" />
+
+---
+
+<sub>**DISCLAIMER:** Although I work for Microsoft, these stickers are in no way endorsed by or approved
+by Microsoft. They were created by me in my capacity as a fan of Microsoft on my own, personal time.  The designs
+use only publicly available imagery.  The designs should not be construed as official Microsoft marketing collateral.</sub>
