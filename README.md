@@ -40,7 +40,7 @@ There are many places you can have these stickers printed.  I personally recomme
 <img height="144" alt="docs" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/docs.svg?sanitize=true" /><img height="144" alt="Channel 9" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Channel 9.svg?sanitize=true" /><img height="144" alt="Brady" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Brady.svg?sanitize=true" /><img height="144" alt="CNTK" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/CNTK.svg?sanitize=true" />
 </div>
 <div>
-<img height="144" alt="Azure Stream Analytics" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Azure Stream Analytics.svg?sanitize=true" /><img height="144" alt="Microsoft R Open" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Microsoft R Open.svg?sanitize=true" /><img height="144" alt="GitHub" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/GitHub.svg?sanitize=true" />
+<img height="144" alt="Azure Stream Analytics" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Azure Stream Analytics.svg?sanitize=true" /><img height="144" alt="Microsoft R Open" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Microsoft R Open.svg?sanitize=true" /><img height="144" alt="GitHub" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/GitHub.svg?sanitize=true" /><img height="144" alt="HoloLens" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/HoloLens.svg?sanitize=true" />
 </div>
 
 ---
