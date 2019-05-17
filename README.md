@@ -42,11 +42,13 @@ There are many places you can have these stickers printed.  I personally recomme
 <div>
 <img height="144" alt="Azure Stream Analytics" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Azure Stream Analytics.svg?sanitize=true" /><img height="144" alt="Microsoft R Open" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/Microsoft R Open.svg?sanitize=true" /><img height="144" alt="GitHub" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/GitHub.svg?sanitize=true" /><img height="144" alt="HoloLens" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/HoloLens.svg?sanitize=true" />
 </div>
-
+<div>
+<img height="144" alt="Microsoft Graph g-graph (giraffe)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Wave 3/g-raph.svg?sanitize=true" />
+</div>
 ---
 
 Here are some of the stickers in action, making my laptop look super sweet!
-<img height="300px" alt="Microsoft hex stickers in action on my laptop" src="https://pbs.twimg.com/media/DJC6WooVAAAtjl0.jpg" />
+<img height="300px" alt="Microsoft hex stickers in action on my laptop - https://github.com/microsoftgraph/g-raph" src="https://pbs.twimg.com/media/DJC6WooVAAAtjl0.jpg" />
 
 ---
 
